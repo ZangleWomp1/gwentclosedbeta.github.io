@@ -3,7 +3,7 @@
 "productName": "DiyGwent",
 "productVersion": "2.1.9",
 "dataUrl": "439ef75cad4089822c6f15ed926f9a2d.unityweb",
-"wasmCodeUrl": "3093da0836cc3151fe32c545cebf67b5.wasm",
+"wasmCodeUrl": "3093da0836cc3151fe32c545cebf67b5.unityweb",
 "wasmFrameworkUrl": "153bc82804d58984245e23ddc47a8310.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
